@@ -1,1 +1,177 @@
 # sotian This is the repository where I commit beginner level web dev project make a site where we upload our class notes and syllabus
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>HTML</title>
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Bachelor's of Technology 2nd Sem </h1>
+ <a href="English.html"> <h3> <b>Next</b> </h3></a>
+  <marquee direction="left"> <h2>Khemnath sir Unit 1 Notes uploaded </h2> </marquee>
+ <hr>
+ <hr>
+ <h2>English Class Notes</h2>
+    <a href="Doo/English 1st Class.pdf" target="_blank" >1st class</a>
+    <br>
+     <a href="Doo/English 2nd.pdf" target="_blank" >2nd class</a>
+    <hr>
+    <h2>Chemistry class notes</h2>
+    <a href="Doo/Chemistry 1st Class.pdf" target="_blank" >1st class</a>
+    <br>
+    <a href="Doo/2nd Chemistry class.pdf" target="_blank" >2nd class</a>
+    <br>
+   <a href="Doo/4th class.pdf" target="_blank">3rd and 4th class</a>
+     <hr>
+   <h2>Chemistry Unit-1 Notes By Khemnath Sir</h2>
+   <a href="Doo/Chemistry 1st.pdf" target="_blank" >1st Note</a>
+   <br>
+   <a href="Doo/Chemistry 2.pdf" target="_blank">2nd Notes</a>
+     <br>
+   <a href="Doo/Chemistry 3.pdf" target="_blank">3rd Notes</a>
+     <br>
+   <a href="Doo/Chemistry 4th.pdf" target="_blank">4th Notes</a>
+<hr>
+  <h2>Mathematics Class Notes</h2>
+   <a href="Doo/maths 1st class.pdf" target="_blank" >1st Class</a>
+   <br>
+   <a href="Doo/mathematics 2nd class.pdf" target="_blank" >2nd Class</a>
+   <br>
+    <a href="Doo/maths class 3.pdf" target="_blank" >3rd class</a>
+    <hr>
+  <h2>Programing Class Notes</h2>
+     <li>Theory of problem solving C</li>
+   <a href="Doo/C programming Theory.pdf" target="_blank" >C theory</a>
+   <hr>
+   <hr>
+   <h2>Previous Year Question papers </h2>
+<hr>
+<h4>Mid Sem Papers</h4>
+<a href="Doo/ASH 201 Chem Mid.pdf" target="_blank" >Cemistry mid sem papers</a>
+<br>
+<a href="Doo/ASH 202 Mths mid.pdf" target="_blank" >Mathematics mid sem papers</a>
+<br>
+<a href="Doo/ASH 202 Prog theroy Mid .pdf" target="_blank" >Programming mid sem papers</a>
+   <li>Solution</li>
+<a href="Doo/Mid sem C pyq Solving.pdf" target="_blank">c mid sem solution</a>
+<br>
+<a href="Doo/ASH 204 EE Mid.pdf" target="_blank" >Electrical Engineering mid sem papers</a>
+<br>
+<a href="Doo/ASH 205 eng mid.pdf" target="_blank" >English mid sem papers</a>
+<hr>
+<h4>End Sem Papers</h4>
+<a href="Doo/ASH 201 Chem End.pdf" target="_blank">Chemistry end sem paper</a>
+<br>
+<a href="Doo/ASH 202 MATHS End.pdf" target="_blank">Mathematics end sem paper</a>
+<br>
+<a href="Doo/ASH 203 Programing theory end.pdf" target="_blank">programming end sem paper</a>
+<br>
+<a href="Doo/ASH 205 ENg end.pdf" target="_blank">English end sem papers</a>
+<br>
+<a href="Doo/ASH 204 EE End.pdf" target="_blank" >Electrical eng. end sem papers</a>
+<br>
+<a href="Doo/ASH 207 Progming Lab.pdf" target="_blank" >Programming lab paper</a>
+<hr>
+<hr>
+   <h2>Syllabus of our Course</h2>
+   <a href="Doo/AICTE_revised_Semester_wise_detail_papers_&_syllabus_from_ASH_dept.pdf" target="_blank">Click here to download</a>
+   <ol>
+       <li>Engineering Chemistry (Theory)</li>
+       <li>Engineering Chemistry (Lab.)</li>
+       <li>Mathematics-II</li>
+       <li>Programming for Problem Solving
+           (Theory)</li>
+       <li>Programming for Problem Solving
+           (Lab.)</li>
+       <li>Basic Electrical Engineering
+           (Theory)</li>
+           <li>Basic Electrical Engineering
+               (Lab.)</li>
+   </ol>
+   <hr>
+   <h2>Class Time Table</h2>
+   <a href="img/Time table.jpg" target="_blank">Click to Download</a>
+   <img src="img/Time table.jpg" alt="imge" width="400"> 
+   <hr>
+   <h2>    Bus Timing</h2>
+   <a href="img/bus time table.jpg" target="_blank">click to download</a>
+   <img src="img/bus time table.jpg" alt="bus timing" width="400">
+   <hr>
+   <img src="img/Assam_University_Logo.png" alt="image" width="100">
+   <h3>ASSAM UNIVERSITY WEBSITE LINK</h3>
+   <a href="http://www.aus.ac.in/" target="_blank">Assam university official website</a>
+   <hr>
+<hr>
+<table>
+    <thead>
+    <tr>
+        <th>Subject</th>
+        <th>Internal</th>
+        <th>End sem</th>
+        <th>total mark</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>English</td>
+        <td>30</td>
+        <td>70</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Mathematics</td>
+        <td>30</td>
+        <td>70</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Electrical Engineering</td>
+        <td>30</td>
+        <td>70</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Chemistry</td>
+        <td>30</td>
+        <td>70</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>Programming</td>
+        <td>30</td>
+        <td>70</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>chemistry/programming/eletrical LAB</td>
+        <td>30</td>
+        <td>70</td>
+        <td>100</td>
+    </tr>
+</tbody>
+<tfoot>
+    <th>Result: Padhai karo</th>
+</tfoot>
+</table>
+<hr>
+<hr>
+<h2>Photo Gallery</h2>
+<br>
+<marquee direction="right"> <img src="img/IMG20230303102812_compressed.jpg" alt="image" width="370" > <img src="img/image in .jpg" alt="image" width="370" > </marquee>
+<br>
+<marquee direction="left"> <img src="img/image in c (1).jpg" alt="image" width="370" > <img src="img/bus pic.jpg" alt="image" width="370" > </marquee>
+<hr>
+<hr>
+<h2>For English Video Lecture and Summary Notes</h2>
+<a href="English.html"> <h2>Click here</h2> </a>
+    <hr>
+<h3>Created and designed by</h3>
+ <h3>Bidyajytoi</h3>
+<hr>
+<hr>
+<li> <i> copyright@2023 Bidyajyoti Bhuyan </i> </li>
+</body>
+</html>
