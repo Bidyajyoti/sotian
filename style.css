@@ -33,3 +33,12 @@ h3{
  
 color: green;
 }
+
+#Click{
+    list-style: none;
+}
+
+.footer{
+    list-style: none;
+    text-align: center;
+}
